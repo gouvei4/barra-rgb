@@ -1,3 +1,3 @@
 # barra-rgb
 
-<strong> Barra rgd tipo loading.</strong>
+<strong> Barra rgg tipo loading.</strong>
